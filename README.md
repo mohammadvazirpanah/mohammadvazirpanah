@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohammad! 
+I'm a research assistant in Computer Science at the University of Salerno.
 
 <!--
 **mohammadvazirpanah/mohammadvazirpanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
