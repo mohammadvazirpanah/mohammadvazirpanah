@@ -1,5 +1,10 @@
 ### Hi there 👋 I'm Mohammad! 
 I'm a Research Assistant in the [ISISLab laboratory](www.isislab.it) of the University of Salerno (Italy). 
+
+### 📈 My GitHub Stats:
+
+[![Mohammad Vazirpanah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadvazirpanah&show_icons=true&theme=radical)](https://github.com/mohammadvazirpanah)
+
 <!--
 **mohammadvazirpanah/mohammadvazirpanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
