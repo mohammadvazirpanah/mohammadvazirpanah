@@ -1,21 +1,26 @@
 ### Hi there 👋 I'm Mohammad! 
-I'm a Research Assistant in the [ISISLab laboratory](www.isislab.it) of the University of Salerno (Italy). 
+I'm a Research Assistant in the [ISISLab laboratory](www.isislab.it) of the University of Salerno (Italy).
 
-### 📈 My GitHub Stats:
+#### 🚀 About Me
+ 
+I'm a passionate researcher and developer with a keen interest in Embedded Systems, Cyber-Physical Systems, and High-performance Computing. 
+
+- 📫 How to reach me: [mohammad.vazirpanah@gmail.com]
+
+
+#### 🛠 Languages and Tools:
+
+![C](https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c++)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?style=flat-square&logo=visual-studio-code)
+<!-- Add or remove any languages or tools -->
+
+#### 📈 My GitHub Stats:
 
 [![Mohammad Vazirpanah's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadvazirpanah&show_icons=true&theme=radical)](https://github.com/mohammadvazirpanah)
 
-<!--
-**mohammadvazirpanah/mohammadvazirpanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Feel free to change the theme of the GitHub stats -->
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
