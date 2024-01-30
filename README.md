@@ -5,7 +5,7 @@ I'm a Research Assistant in the [ISISLab laboratory](www.isislab.it) of the Univ
  
 I'm a passionate researcher and developer with a keen interest in Embedded Systems, Cyber-Physical Systems, and High-performance Computing. 
 
-- 📫 How to reach me: [mohammad.vazirpanah@gmail.com]
+#### 📫 How to reach me: [Email](mohammad.vazirpanah@gmail.com)
 
 
 #### 🛠 Languages and Tools:
