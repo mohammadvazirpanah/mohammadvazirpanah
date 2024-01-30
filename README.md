@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohammad! 
-I'm a research assistant in Computer Science at the University of Salerno.
+I'm a Research Assistant in the ISISLab laboratory (www.isislab.it) of the University of Salerno (Italy). 
 
 <!--
 **mohammadvazirpanah/mohammadvazirpanah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
