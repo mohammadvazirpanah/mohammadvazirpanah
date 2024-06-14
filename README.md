@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohammad! 
-Currently, I'm a Research Assistant in the [ISISLab laboratory](www.isislab.it](https://www.isislab.it/en/) of the University of Salerno (Italy).
+Currently, I'm a Research Assistant in the [ISISLab laboratory](https://www.isislab.it/en/) of the University of Salerno (Italy).
 
 #### 🚀 About Me
  
